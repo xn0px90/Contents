@@ -7,7 +7,7 @@ What is [Signal]?
 [According to Wikipedia:][signal-wikipedia]
 
 > Signal is an encrypted instant messaging and voice calling application
-> for Android and iOS. It uses end-to-end encryption to secure all
+> for Linux, Mac, Windows, Android and iOS. It uses end-to-end encryption to secure all
 > communications to other Signal users. Signal can be used to send and receive
 > encrypted instant messages, group messages, attachments and media messages.
 > Users can independently verify the identity of their messaging correspondents
